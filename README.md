@@ -25,7 +25,8 @@ Tried to used sentence-transformers/all-MiniLM-L6-v2
 
 Preprocessing.ipynb used to preprocess(bert model used)
 
-index.ipynb or app.py used to host
+index.ipynb or app.py in Bigbasket_Chaabi used to host 
+[link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main)
 
 
 ## Hosting the Application on Gradio
