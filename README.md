@@ -7,9 +7,13 @@ This project demonstrates the use of a BERT-based language model for some task r
 
 ### Installation
 Make sure to install the required libraries:
+
 !pip install transformers
+
 !pip install pandas
+
 !pip install gradio
+
 !pip install torch
 
 
@@ -17,20 +21,24 @@ Make sure to install the required libraries:
 
 redundant.ipynb- 
 Tried to used sentence-transformers/all-MiniLM-L6-v2
-but it couldnt upload to database completely, otherwise it works too
+ but it couldnt upload to database completely, otherwise it works too
+
 Preprocessing.ipynb used to preprocess(bert model used)
+
 index.ipynb or app.py used to host
 
 
-## Hosting the Application
+## Hosting the Application on Gradio
+This project utilizes Gradio for hosting and interacting with the machine learning models. Gradio is a Python library that simplifies the process of creating user interfaces for machine learning models, making it easy to share and showcase your models with a wider audience.
+
 You can access the hosted application through this [public link](https://24764a52dc6dbe3092.gradio.live/)-https://24764a52dc6dbe3092.gradio.live/
 
-## Space on hugging space
+### Space on hugging space
 git clone https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi
 
 
-```git clone [<repository-url>](https://github.com/Vedantttgitteee20/LLM_Model_Chaabi)https://github.com/Vedantttgitteee20/LLM_Model_Chaabi
+git clone [<repository-url>](https://github.com/Vedantttgitteee20/LLM_Model_Chaabi)https://github.com/Vedantttgitteee20/LLM_Model_Chaabi
+
 cd LLM_Model_Chaabi
-```
 
 
