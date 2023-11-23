@@ -25,7 +25,9 @@ index.ipynb or app.py used to host
 ## Hosting the Application
 You can access the hosted application through this [public link](https://24764a52dc6dbe3092.gradio.live/)-https://24764a52dc6dbe3092.gradio.live/
 
-## How to run locally
+## Space on hugging space
+git clone https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi
+
 
 ```git clone [<repository-url>](https://github.com/Vedantttgitteee20/LLM_Model_Chaabi)https://github.com/Vedantttgitteee20/LLM_Model_Chaabi
 cd LLM_Model_Chaabi
