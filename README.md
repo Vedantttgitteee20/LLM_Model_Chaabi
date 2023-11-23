@@ -31,8 +31,8 @@ index.ipynb or app.py used to host
 ## Hosting the Application on Gradio
 This project utilizes Gradio for hosting and interacting with the machine learning models. Gradio is a Python library that simplifies the process of creating user interfaces for machine learning models, making it easy to share and showcase your models with a wider audience.
 
-You can access the hosted application through this [public link](https://24764a52dc6dbe3092.gradio.live/)-https://24764a52dc6dbe3092.gradio.live/
-
+You can access the hosted application through this [public link](https://24764a52dc6dbe3092.gradio.live/)-https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi
+Code link- https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main
 ### Space on hugging space
 git clone https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi
 
