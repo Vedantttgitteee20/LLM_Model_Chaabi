@@ -1,13 +1,14 @@
-# LLM_Model_Chaabi
+# LLM Model Chaabi
 
 ## Overview
-This project demonstrates the use of a BERT-based language model for some task related to Chaabi. The model is hosted using Gradio for easy interaction.
+This project demonstrates the use of a BERT-based language model for some task related to Chaabi. The model is hosted using Gradio for easy interaction. Alternatively all-MiniLM-L6-v2 model is also used to explore.
 
 ## Usage
-[link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main)
+
+[Link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main)
 
 
-You can access the hosted application through this [public link](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi)-https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi
+You can access the hosted application through this [Basket](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi)
 
 ### Installation
 Make sure to install the required libraries:
@@ -23,13 +24,14 @@ Make sure to install the required libraries:
 
 ## File uses-
 
-redundant.ipynb- 
-Tried to used sentence-transformers/all-MiniLM-L6-v2
- but it couldnt upload to database completely, otherwise it works too
+* **MiniLM_Model.ipynb**
+   * Used ``sentence-transformers/all-MiniLM-L6-v2``
+Embedding were created, but it couldnt upload to database completely to Pinecone.
 
-Preprocessing.ipynb used to preprocess(bert model used)
-
-index.ipynb or app.py in Bigbasket_Chaabi used to host 
+* **BERT_Model.ipynb**
+  * Sentence embedding created
+  
+* **app.ipynb**
 [link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main)
 
 
