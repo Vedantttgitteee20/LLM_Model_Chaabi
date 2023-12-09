@@ -5,7 +5,7 @@ This project demonstrates the use of a BERT-based language model for some task r
 
 ## Usage
 
-[Link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main)
+[Link to repository of Bigbasket](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main)
 
 
 You can access the hosted application through this [Basket](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi)
