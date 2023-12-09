@@ -1,7 +1,7 @@
 # LLM Model to read CSV
 
 ## Overview
-This project demonstrates the use of a BERT-based language model for some task related to Chaabi. The model is hosted using Gradio for easy interaction. Alternatively all-MiniLM-L6-v2 model is also explored
+This project demonstrates the use of a BERT-based language model for some task related to Chaabi. The model is hosted using Gradio for easy interaction. Alternatively all-MiniLM-L6-v2 model is also explored. This was done as assignment for applying to company Chaabi
 
 ## Usage
 
